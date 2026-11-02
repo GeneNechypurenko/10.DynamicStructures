@@ -8,4 +8,5 @@
   <Project Path="03.List/03.List.vcxproj" Id="18b8194b-e454-448f-9814-9db543f431e6" />
   <Project Path="04.BinaryTree/04.BinaryTree.vcxproj" Id="a68f66af-3f7d-4e02-991f-eb76b1991d4a" />
   <Project Path="HomeWork30/HomeWork30.vcxproj" Id="71b2f24c-32fb-473d-918e-5d3386863302" />
+  <Project Path="HW30Solution/HW30Solution.vcxproj" Id="8044118e-efa3-481e-ab3b-a97eace49349" />
 </Solution>
